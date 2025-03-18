@@ -20,14 +20,6 @@ body{
     left:10px;
     font-size:45px;
 }
-
-/* .c_container{
-   display:flex;
-  justify-content:center;
-  align-items:center; 
- */
-
-
 #container{
     position:static;
     top:500px;
@@ -75,6 +67,7 @@ body{
     color:rgb(0 22 131);;
     background-color:#466295;
     font-size:50px;
+    text-align:right;
     
 }
 .value:hover{
